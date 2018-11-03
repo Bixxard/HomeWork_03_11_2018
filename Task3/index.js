@@ -1,0 +1,11 @@
+let type;
+console.log(type);
+type = 'srting';
+console.log(type);
+type = true;
+console.log(type);
+type = 3;
+console.log(type);
+type = null;
+console.log(type);
+console.log(typeof (type));
